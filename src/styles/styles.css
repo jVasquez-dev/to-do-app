@@ -1,0 +1,11 @@
+body {
+    background: #f8f9fa;
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+.pointer {
+    cursor: pointer;
+}
